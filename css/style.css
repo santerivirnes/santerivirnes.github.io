@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Arimo:400|Raleway:300,400,700&display=swap");
 body {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #fbf5ef;
   font-size: 16px;
   line-height: 30px;
   font-weight: 300;
@@ -34,17 +34,17 @@ body.offcanvas:before {
 }
 
 body, .unslate_co--site-inner {
-  background: #000;
+  background: #272744;
 }
 
 ::-moz-selection {
   background: #000;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 ::selection {
   background: #000;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 a {
@@ -74,7 +74,7 @@ a, a:hover {
   position: fixed !important;
   width: 100%;
   background-color: #191919;
-  color: #fff;
+  color: #fbf5ef;
   left: 0;
   right: 0;
   bottom: 0px;
@@ -108,7 +108,7 @@ a, a:hover {
 }
 
 .btn.btn-outline-pill.btn-custom-light {
-  color: #fff;
+  color: #fbf5ef;
   border: 2px solid rgba(255, 255, 255, 0.5);
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -116,11 +116,11 @@ a, a:hover {
 }
 
 .btn.btn-outline-pill.btn-custom-light:hover, .btn.btn-outline-pill.btn-custom-light:active, .btn.btn-outline-pill.btn-custom-light:focus {
-  border-color: #fff;
+  border-color: #fbf5ef;
 }
 
 .btn.btn-bg-white--hover:hover {
-  background-color: #fff;
+  background-color: #fbf5ef;
   color: #000;
 }
 
@@ -182,12 +182,12 @@ a, a:hover {
 
 .unslate_co--site-nav .unslate_co--site-logo {
   font-size: 1.7rem;
-  color: #fff;
+  color: #fbf5ef;
   font-weight: 700;
 }
 
 .unslate_co--site-nav .unslate_co--site-logo span {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-nav .site-nav-ul, .unslate_co--site-nav .site-nav-ul-none-onepage {
@@ -208,7 +208,7 @@ a, a:hover {
 .unslate_co--site-nav .site-nav-ul > li > a, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a {
   padding: 10px 7px;
   display: block;
-  color: #fff;
+  color: #fbf5ef;
   font-size: 14px;
   position: relative;
 }
@@ -228,7 +228,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover:before {
@@ -240,7 +240,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a.active:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a.active:before {
-  color: #fff;
+  color: #fbf5ef;
   width: calc(100% - 14px);
 }
 
@@ -372,7 +372,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li.active > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li.active > a:before {
-  color: #fff;
+  color: #fbf5ef;
   width: calc(100% - 40px);
 }
 
@@ -511,7 +511,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a:hover, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:hover {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:before {
@@ -519,7 +519,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active:before {
@@ -627,7 +627,7 @@ a, a:hover {
 }
 
 .unslate_co--site-mobile-menu ul a:hover, .unslate_co--site-mobile-menu ul li a:hover {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-mobile-menu ul > li > ul > li > a {
@@ -746,7 +746,7 @@ a, a:hover {
 .cover-v1 .heading {
   font-size: 5rem;
   font-weight: 900;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 @media (max-width: 991.98px) {
@@ -757,7 +757,7 @@ a, a:hover {
 
 .cover-v1 .blog-heading {
   font-weight: 900;
-  color: #fff;
+  color: #fbf5ef;
   font-size: 4rem;
 }
 
@@ -773,7 +773,7 @@ a, a:hover {
 
 .cover-v1 .subheading {
   font-size: 33px;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 @media (max-width: 991.98px) {
@@ -803,7 +803,7 @@ a, a:hover {
 
 .mouse-wrap .mouse-label {
   top: 0;
-  color: #fff;
+  color: #fbf5ef;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: .05rem;
@@ -987,7 +987,7 @@ a, a:hover {
 .portfolio-item .wrap-icon, .blog-item .wrap-icon {
   position: absolute;
   right: 20px;
-  color: #fff;
+  color: #fbf5ef;
   top: 20px;
 }
 
@@ -999,7 +999,7 @@ a, a:hover {
 }
 
 .portfolio-item .portfolio-item-content h3, .portfolio-item .portfolio-item-content p, .blog-item .portfolio-item-content h3, .blog-item .portfolio-item-content p {
-  color: #fff;
+  color: #fbf5ef;
   margin: 0;
   padding: 0;
 }
@@ -1039,7 +1039,7 @@ a, a:hover {
 
 .filter-wrap .filter {
   font-size: 14px;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .filter-wrap .filter a {
@@ -1048,11 +1048,11 @@ a, a:hover {
 }
 
 .filter-wrap .filter a:hover {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .filter-wrap .filter a.active {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 @media (max-width: 991.98px) {
@@ -1124,12 +1124,12 @@ a, a:hover {
 }
 
 .unslate_co--section a:hover {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .heading-h2 {
   font-size: 32px;
-  color: #fff;
+  color: #fbf5ef;
   font-weight: 900;
 }
 
@@ -1141,7 +1141,7 @@ a, a:hover {
 .heading-h3 {
   font-size: 26px;
   font-weight: 900;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .lead {
@@ -1323,7 +1323,7 @@ figure.dotted-bg:before {
   font-size: 69px;
   font-weight: 900;
   font-family: "Arimo", sans-serif;
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .counter-v1 .number-wrap .append-text {
@@ -1425,7 +1425,7 @@ figure.dotted-bg:before {
 .testimonial-slider .owl-nav .owl-prev:hover,
 .testimonial-slider .owl-nav .owl-next:hover, .single-slider .owl-nav .owl-prev:hover,
 .single-slider .owl-nav .owl-next:hover {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .testimonial-slider .owl-nav .owl-prev:active, .testimonial-slider .owl-nav .owl-prev:focus,
@@ -1543,7 +1543,7 @@ figure.dotted-bg:before {
   padding-left: 0;
   padding-right: 0;
   border-radius: 0;
-  color: #fff;
+  color: #fbf5ef;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 
@@ -1577,7 +1577,7 @@ figure.dotted-bg:before {
   padding-left: 0;
   padding-right: 0;
   border-radius: 0;
-  color: #fff;
+  color: #fbf5ef;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 
@@ -1609,7 +1609,7 @@ figure.dotted-bg:before {
 
 .contact-info-v1 .contact-info-val {
   font-size: 20px;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .portfolio-single-inner .heading-portfolio-single-h2 {
@@ -1718,11 +1718,11 @@ figure.dotted-bg:before {
 
 .detail-v1 .detail-val {
   font-size: 16px;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .detail-v1 .detail-val a {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .unslate_co--footer {
@@ -1736,7 +1736,7 @@ figure.dotted-bg:before {
 }
 
 .unslate_co--footer a:hover {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .unslate_co--footer .footer-site-logo {
@@ -1747,11 +1747,11 @@ figure.dotted-bg:before {
   font-size: 30px;
   font-weight: 900;
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .unslate_co--footer .footer-site-logo a span {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--footer .footer-site-social {
@@ -1785,7 +1785,7 @@ figure.dotted-bg:before {
 }
 
 .unslate_co--footer .footer-site-social li a:hover, .unslate_co--footer .footer-site-social li a:focus {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .loader-portfolio-wrap {
@@ -1807,7 +1807,7 @@ figure.dotted-bg:before {
   margin: 2rem auto;
   border-radius: 50%;
   border: 0.3rem solid rgba(255, 255, 255, 0.3);
-  border-top-color: #fff;
+  border-top-color: #fbf5ef;
   -webkit-animation: 1.5s spin infinite linear;
   animation: 1.5s spin infinite linear;
 }
@@ -1948,7 +1948,7 @@ span.error {
 .comment-list li .comment-body .reply {
   padding: 7px 15px;
   background: gray;
-  color: #fff;
+  color: #fbf5ef;
   text-transform: uppercase;
   border-radius: 30px;
   font-size: 11px;
@@ -1957,7 +1957,7 @@ span.error {
 }
 
 .comment-list li .comment-body .reply:hover {
-  color: #fff;
+  color: #fbf5ef;
   background: #8c8c8c;
 }
 

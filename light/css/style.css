@@ -39,12 +39,12 @@ body, .unslate_co--site-inner {
 
 ::-moz-selection {
   background: #000;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 ::selection {
   background: #000;
-  color: #fff;
+  color: #fbf5ef;
 }
 
 a {
@@ -78,7 +78,7 @@ a, a:hover {
   position: fixed !important;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.1);
-  color: #fff;
+  color: #fbf5ef;
   left: 0;
   right: 0;
   bottom: 0px;
@@ -124,7 +124,7 @@ a, a:hover {
 }
 
 .btn.btn-outline-pill.btn-white {
-  color: #fff;
+  color: #fbf5ef;
   border: 2px solid rgba(255, 255, 255, 0.5);
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -132,7 +132,7 @@ a, a:hover {
 }
 
 .btn.btn-outline-pill.btn-white:hover, .btn.btn-outline-pill.btn-white:active, .btn.btn-outline-pill.btn-white:focus {
-  border-color: #fff;
+  border-color: #fbf5ef;
 }
 
 .btn.btn-bg-black--hover:hover {
@@ -198,12 +198,12 @@ a, a:hover {
 
 .unslate_co--site-nav .unslate_co--site-logo {
   font-size: 1.7rem;
-  color: #fff;
+  color: #fbf5ef;
   font-weight: 700;
 }
 
 .unslate_co--site-nav .unslate_co--site-logo span {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-nav .site-nav-ul, .unslate_co--site-nav .site-nav-ul-none-onepage {
@@ -224,7 +224,7 @@ a, a:hover {
 .unslate_co--site-nav .site-nav-ul > li > a, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a {
   padding: 10px 7px;
   display: block;
-  color: #fff;
+  color: #fbf5ef;
   font-size: 14px;
   position: relative;
 }
@@ -244,7 +244,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover {
-  color: #fff;
+  color: #fbf5ef;
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover:before {
@@ -256,7 +256,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a.active:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a.active:before {
-  color: #fff;
+  color: #fbf5ef;
   width: calc(100% - 14px);
 }
 
@@ -388,7 +388,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li.active > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li.active > a:before {
-  color: #fff;
+  color: #fbf5ef;
   width: calc(100% - 40px);
 }
 
@@ -547,7 +547,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a:hover, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:hover {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:before {
@@ -555,7 +555,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active:before {
@@ -663,7 +663,7 @@ a, a:hover {
 }
 
 .unslate_co--site-mobile-menu ul a:hover, .unslate_co--site-mobile-menu ul li a:hover {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--site-mobile-menu ul > li > ul > li > a {
@@ -839,7 +839,7 @@ a, a:hover {
 
 .mouse-wrap .mouse-label {
   top: 0;
-  color: #fff;
+  color: #fbf5ef;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: .05rem;
@@ -1023,7 +1023,7 @@ a, a:hover {
 .portfolio-item .wrap-icon, .blog-item .wrap-icon {
   position: absolute;
   right: 20px;
-  color: #fff;
+  color: #fbf5ef;
   top: 20px;
 }
 
@@ -1035,7 +1035,7 @@ a, a:hover {
 }
 
 .portfolio-item .portfolio-item-content h3, .portfolio-item .portfolio-item-content p, .blog-item .portfolio-item-content h3, .blog-item .portfolio-item-content p {
-  color: #fff;
+  color: #fbf5ef;
   margin: 0;
   padding: 0;
 }
@@ -1359,7 +1359,7 @@ figure.dotted-bg:before {
   font-size: 69px;
   font-weight: 900;
   font-family: "Arimo", sans-serif;
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .counter-v1 .number-wrap .append-text {
@@ -1792,7 +1792,7 @@ figure.dotted-bg:before {
 }
 
 .unslate_co--footer .footer-site-logo a span {
-  color: #D63447;
+  color: #f2d3ab;
 }
 
 .unslate_co--footer .footer-site-social {
@@ -1848,7 +1848,7 @@ figure.dotted-bg:before {
   margin: 2rem auto;
   border-radius: 50%;
   border: 0.3rem solid rgba(255, 255, 255, 0.3);
-  border-top-color: #fff;
+  border-top-color: #fbf5ef;
   -webkit-animation: 1.5s spin infinite linear;
   animation: 1.5s spin infinite linear;
 }
