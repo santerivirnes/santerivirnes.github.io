@@ -1354,8 +1354,8 @@ figure.dotted-bg:before {
   line-height: 40px;
   position: relative;
   z-index: 1;
-  -webkit-box-shadow: 0px 30px 0 -20px #d63447;
-  box-shadow: 0px 30px 0 -20px #d63447;
+  -webkit-box-shadow: 0px 30px 0 -20px #f2d3ab;
+  box-shadow: 0px 30px 0 -20px #f2d3ab;
 }
 
 @media (max-width: 991.98px) {
@@ -1862,7 +1862,8 @@ span.error {
 }
 
 #form-message-warning {
-  color: #f64b3c;
+  color: #f2d3ab
+  ;
 }
 
 #form-message-success {
@@ -2053,7 +2054,8 @@ span.error {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #d63447;
+  background: #f2d3ab
+  ;
   margin-left: -100%;
   z-index: 2;
 }
@@ -2082,7 +2084,8 @@ span.error {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #d63447;
+  background: #f2d3ab
+  ;
   margin-left: -100%;
   z-index: 9;
 }

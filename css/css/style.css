@@ -1361,7 +1361,7 @@ span.error {
   display: none; }
 
 #form-message-warning {
-  color: #f64b3c; }
+  color: #f2d3ab; }
 
 #form-message-success {
   color: #8cba51;
@@ -1479,7 +1479,7 @@ span.error {
 
 .gsap-reveal {
   display: block;
-  border: 1px solid red;
+  border: 1px solid #f2d3ab;
   position: relative; }
   .gsap-reveal .cover {
     position: absolute;
@@ -1489,5 +1489,5 @@ span.error {
     bottom: 0;
     width: 100%;
     height: 100%;
-    border: 1px solid red;
+    border: 1px solid #f2d3ab;
     background: #000; }
