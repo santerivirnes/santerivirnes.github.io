@@ -619,7 +619,7 @@ var animateReveal = function() {
 
 			setTimeout(function() {
 				tl
-					.fromTo(cover, 2, { skewX: 0 }, { xPercent: 101, transformOrigin: "0% 100%", ease:Expo.easeInOut })
+					.fromTo(cover, 2, { skewX: 0 }, { xPercent: 101, transformOrigin: "0% 100%", display: "none", ease:Expo.easeInOut })
 			}, revealNum * 0);
 			
 			var scene = new ScrollMagic.Scene({
