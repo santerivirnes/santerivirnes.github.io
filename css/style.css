@@ -78,7 +78,7 @@ a, a:hover {
   left: 0;
   right: 0;
   bottom: 0px;
-  z-index: 10;
+  z-index: -1;
   height: 400px;
 }
 
@@ -86,6 +86,7 @@ a, a:hover {
   .unslate_co--footer {
     height: auto !important;
     position: relative !important;
+    z-index: 10;
   }
 }
 
